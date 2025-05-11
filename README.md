@@ -2,6 +2,13 @@
 
 - 🌱 I’m currently learning in IES Saladillo
 
+Hello! My name is César Augusto Ragel Santana.
+
+Skills:
+
+Tools:
+  
+
 <!--
 **cragsan1008/cragsan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
