@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning in IES Saladillo
 
 Hello! My name is César Augusto Ragel Santana.
 
